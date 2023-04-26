@@ -1,4 +1,4 @@
-const bookmarks = require("./db/bookmarks.json")
+const bookmarks = require("../db/bookmarks.json")
 const { shell } = require("electron")
 const { pull } = require("./git.js")
 const { utools } = window

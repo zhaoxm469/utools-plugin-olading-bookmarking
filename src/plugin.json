@@ -1,5 +1,5 @@
 {
-	"logo": "./static/logo.png",
+	"logo": "logo.png",
   "preload": "preload.js",
 	"features": [
 		{
