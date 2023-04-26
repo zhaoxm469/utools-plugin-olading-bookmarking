@@ -1,0 +1,16 @@
+{
+	"logo": "./static/logo.png",
+  "preload": "preload.js",
+	"features": [
+		{
+		  "code": "olading-bookmarking",
+		  "explain": "阿拉钉文档快速搜索",
+			"cmds":["阿拉钉文档搜索","olading"]
+		},
+    {
+		  "code": "olading-bookmarking-pull",
+		  "explain": "阿拉钉文档获取最新内容",
+			"cmds":["阿拉钉文档pull","olading-pull"]
+		}
+	]
+}
